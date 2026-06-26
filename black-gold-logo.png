@@ -1,0 +1,13 @@
+# Black Gold Connect
+
+Official Black Gold Connect website, digital business cards, and team directory.
+
+## Brand Colours
+- Black Gold Gold: RGB 198, 150, 83 / HEX #C69653
+- Response Green: RGB 110, 190, 68 / HEX #6EBE44
+
+## Updating Employee Information
+Employee pages are located in `/employees/`. Update phone numbers, titles, emails, and vCards as required.
+
+## NFC Card Use
+Write the employee profile URL to the NFC card using NFC Tools > Write > Add a record > URL / URI.
